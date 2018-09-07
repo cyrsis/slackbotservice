@@ -34,4 +34,10 @@ Express
  # Framework
  `npm install express --save`
  
- # 
+ # Doc reference
+ 
+ https://api.slack.com/bot-users
+ 
+ # Bot's name
+ 
+ personaldiscovery
