@@ -37,7 +37,8 @@ Express
  # Doc reference
  
  https://api.slack.com/bot-users
+ -------------------------
+ RTM is suitable message framework
  
  # Bot's name
- 
  personaldiscovery
